@@ -1,0 +1,885 @@
+[
+    {
+        "cluster": {
+            "name": "Who Affect the Father the Most",
+            "shortHand": "",
+            "description": "",
+            "baseSong": "SOL1_56"
+        },
+        "songs": [
+            {
+                "slug": "SOL1_56",
+                "note": "Base song"
+            },
+            {
+                "slug": "SOL1_154"
+            },
+            {
+                "slug": "SOL1_116"
+            },
+            {
+                "slug": "SOL1_74"
+            },
+            {
+                "slug": "SOL1_78"
+            },
+            {
+                "slug": "SOL1_156"
+            },
+            {
+                "slug": "SOL1_144"
+            },
+            {
+                "slug": "SOL1_160"
+            },
+            {
+                "slug": "SOL1_180"
+            },
+            {
+                "slug": "SOL1_80"
+            }
+        ]
+    },
+    {
+        "cluster": {
+            "name": "The Father's Longing",
+            "shortHand": "",
+            "description": "",
+            "baseSong": "SOL2_104"
+        },
+        "songs": [
+            {
+                "slug": "SOL2_104"
+            },
+            {
+                "slug": "GFH2_24",
+                "note": ""
+            },
+            {
+                "slug": "SOL2_59"
+            }
+        ]
+    },
+    {
+        "cluster": {
+            "name": "The Deepest Affection! The Highest Father's Love!",
+            "shortHand": "",
+            "description": "",
+            "baseSong": "SOL1_52"
+        },
+        "songs": [
+            {
+                "slug": "SOL1_52"
+            },
+            {
+                "slug": "SOL1_69"
+            }
+        ]
+    },
+    {
+        "cluster": {
+            "name": "This is My Father's World",
+            "shortHand": "",
+            "description": "",
+            "baseSong": "GFH2_76"
+        },
+        "songs": [
+            {
+                "slug": "GFH2_76"
+            },
+            {
+                "slug": "GFH2_69"
+            }
+        ]
+    },
+    {
+        "cluster": {
+            "name": "My Eternal Father",
+            "shortHand": "",
+            "description": "",
+            "baseSong": "SOL1_170"
+        },
+        "songs": [
+            {
+                "slug": "SOL1_170"
+            },
+            {
+                "slug": "SOL2_165"
+            }
+        ]
+    },
+    {
+        "cluster": {
+            "name": "Love Till the End",
+            "shortHand": "",
+            "description": "",
+            "baseSong": "HC2_43"
+        },
+        "songs": [
+            {
+                "slug": "HC2_43"
+            },
+            {
+                "slug": "SOMH1_8"
+            },
+            {
+                "slug": "SOL2_149"
+            },
+            {
+                "slug": "SOL1_135",
+                "note": "Chorus extended"
+            },
+            {
+                "slug": "SOL2_133"
+            },
+            {
+                "slug": "SOL1_178",
+                "note": ""
+            }
+        ]
+    },
+    {
+        "cluster": {
+            "name": "Rest and Rejoice in Your Bosom",
+            "shortHand": "",
+            "description": "",
+            "baseSong": "SOL1_162"
+        },
+        "songs": [
+            {
+                "slug": "SOL1_162"
+            },
+            {
+                "slug": "SOL1_149"
+            },
+            {
+                "slug": "SOL2_156"
+            }
+        ]
+    },
+    {
+        "cluster": {
+            "name": "The Infinitely Glorious Lord is Most Deeply United with Me",
+            "shortHand": "",
+            "description": "",
+            "baseSong": "SOL1_176"
+        },
+        "songs": [
+            {
+                "slug": "SOL1_176"
+            },
+            {
+                "slug": "SOL1_177"
+            },
+            {
+                "slug": "SOL2_129"
+            },
+            {
+                "slug": "SOL1_191"
+            }
+        ]
+    },
+    {
+        "cluster": {
+            "name": "I was Created for the Lord",
+            "shortHand": "",
+            "description": "",
+            "baseSong": "SOL2_85"
+        },
+        "songs": [
+            {
+                "slug": "GFH2_1"
+            },
+            {
+                "slug": "GFH2_45"
+            },
+            {
+                "slug": "SOL2_85"
+            }
+        ]
+    },
+    {
+        "cluster": {
+            "name": "My Father is Infinitely Great",
+            "shortHand": "",
+            "description": "",
+            "baseSong": "SOL2_47"
+        },
+        "songs": [
+            {
+                "slug": "SOL2_47"
+            },
+            {
+                "slug": "SOL2_5"
+            }
+        ]
+    },
+    {
+        "cluster": {
+            "name": "One Day the Lord with Come",
+            "shortHand": "",
+            "description": "",
+            "baseSong": "SOL1_20"
+        },
+        "songs": [
+            {
+                "slug": "SOL1_20"
+            },
+            {
+                "slug": "GBH_40"
+            }
+        ]
+    },
+    {
+        "cluster": {
+            "name": "Emmanuel - God is Forever Man",
+            "shortHand": "",
+            "description": "",
+            "baseSong": "SOL1_130"
+        },
+        "songs": [
+            {
+                "slug": "SOL1_130"
+            },
+            {
+                "slug": "GFH2_52"
+            },
+            {
+                "slug": "SOL2_169"
+            },
+            {
+                "slug": "GFH2_105"
+            },
+            {
+                "slug": "SOL2_139"
+            }
+        ]
+    },
+    {
+        "cluster": {
+            "name": "Home Sweet Home",
+            "shortHand": "",
+            "description": "",
+            "baseSong": "SOL1_12"
+        },
+        "songs": [
+            {
+                "slug": "SOL1_12"
+            },
+            {
+                "slug": "SOL2_142"
+            }
+        ]
+    },
+    {
+        "cluster": {
+            "name": "For Love, Lord, You Came",
+            "shortHand": "",
+            "description": "",
+            "baseSong": "SOL1_35"
+        },
+        "songs": [
+            {
+                "slug": "SOL1_35"
+            },
+            {
+                "slug": "SOL2_90"
+            }
+        ]
+    },
+    {
+        "cluster": {
+            "name": "To Live in Me",
+            "shortHand": "",
+            "description": "",
+            "baseSong": "SOL1_182"
+        },
+        "songs": [
+            {
+                "slug": "SOL1_182"
+            },
+            {
+                "slug": "SOL2_148"
+            },
+            {
+                "slug": "SOL2_33"
+            },
+            {
+                "slug": "SOL2_114"
+            }
+        ]
+    },
+    {
+        "cluster": {
+            "name": "In the River Of Love",
+            "shortHand": "",
+            "description": "",
+            "baseSong": "GFH2_92"
+        },
+        "songs": [
+            {
+                "slug": "GFH2_92"
+            },
+            {
+                "slug": "GFH2_93"
+            }
+        ]
+    },
+    {
+        "cluster": {
+            "name": "The Banner of the Lamb Flies Over Me",
+            "shortHand": "",
+            "description": "",
+            "baseSong": "SOL2_117"
+        },
+        "songs": [
+            {
+                "slug": "SOL2_117"
+            },
+            {
+                "slug": "SOL2_115"
+            },
+            {
+                "slug": "SOL2_146"
+            },
+            {
+                "slug": "SOL2_119"
+            }
+        ]
+    },
+    {
+        "cluster": {
+            "name": "His Delight and Desire",
+            "shortHand": "",
+            "description": "",
+            "baseSong": "SOL1_184"
+        },
+        "songs": [
+            {
+                "slug": "SOL1_184"
+            },
+            {
+                "slug": "SOL2_165"
+            }
+        ]
+    },
+    {
+        "cluster": {
+            "name": "The Love of the Son of God",
+            "shortHand": "",
+            "description": "",
+            "baseSong": "SOL1_179"
+        },
+        "songs": [
+            {
+                "slug": "SOL1_179"
+            },
+            {
+                "slug": "SOL1_50"
+            },
+            {
+                "slug": "SOL1_150"
+            },
+            {
+                "slug": "SOL1_174"
+            }
+        ]
+    },
+    {
+        "cluster": {
+            "name": "Sit in Heaven with the Lord",
+            "shortHand": "",
+            "description": "",
+            "baseSong": "SOL2_24"
+        },
+        "songs": [
+            {
+                "slug": "SOL2_24"
+            },
+            {
+                "slug": "SOL2_174"
+            },
+            {
+                "slug": "SOL2_9"
+            },
+            {
+                "slug": "SOL2_108"
+            }
+        ]
+    },
+    {
+        "cluster": {
+            "name": "The Lord’s Secret: His Desire is toward Me",
+            "shortHand": "",
+            "description": "",
+            "baseSong": "SOL1_71"
+        },
+        "songs": [
+            {
+                "slug": "SOL1_71"
+            },
+            {
+                "slug": "SOL2_211"
+            }
+        ]
+    },
+    {
+        "cluster": {
+            "name": "March Forward to a Glorious Journey",
+            "shortHand": "",
+            "description": "",
+            "baseSong": "SOL2_182"
+        },
+        "songs": [
+            {
+                "slug": "SOL2_182"
+            },
+            {
+                "slug": "SOMH1_7"
+            },
+            {
+                "slug": "HC2_42"
+            }
+        ]
+    },
+    {
+        "cluster": {
+            "name": "Love Getting Deeper and Deeper",
+            "shortHand": "",
+            "description": "",
+            "baseSong": "SOL1_90"
+        },
+        "songs": [
+            {
+                "slug": "SOL1_90"
+            },
+            {
+                "slug": "GFH2_108"
+            }
+        ]
+    },
+    {
+        "cluster": {
+            "name": "His Unforgettable Appearing",
+            "shortHand": "",
+            "description": "",
+            "baseSong": "SOL2_26"
+        },
+        "songs": [
+            {
+                "slug": "SOL2_26"
+            },
+            {
+                "slug": "SOL2_31"
+            },
+            {
+                "slug": "SOL1_18"
+            }
+        ]
+    },
+    {
+        "cluster": {
+            "name": "My Dear Abba",
+            "shortHand": "",
+            "description": "",
+            "baseSong": "SOL1_54"
+        },
+        "songs": [
+            {
+                "slug": "SOL1_54"
+            },
+            {
+                "slug": "GFH1_70"
+            },
+            {
+                "slug": "SOL2_116"
+            },
+            {
+                "slug": "SOL1_6"
+            }
+        ]
+    },
+    {
+        "cluster": {
+            "name": "Daily Fireworks",
+            "shortHand": "",
+            "description": "",
+            "baseSong": "SOL1_113"
+        },
+        "songs": [
+            {
+                "slug": "SOL1_113"
+            },
+            {
+                "slug": "GFH1_7"
+            }
+        ]
+    },
+    {
+        "cluster": {
+            "name": "Living in the Lord's Delight",
+            "shortHand": "",
+            "description": "",
+            "baseSong": "SOL1_187"
+        },
+        "songs": [
+            {
+                "slug": "SOL1_187"
+            },
+            {
+                "slug": "SOL1_164"
+            },
+            {
+                "slug": "SOL2_162"
+            }
+        ]
+    },
+    {
+        "cluster": {
+            "name": "Let’s Celebrate",
+            "shortHand": "",
+            "description": "",
+            "baseSong": "SOL1_51"
+        },
+        "songs": [
+            {
+                "slug": "SOL1_51"
+            },
+            {
+                "slug": "SOL1_142"
+            }
+        ]
+    },
+    {
+        "cluster": {
+            "name": "You Gave Yourself for Me",
+            "shortHand": "",
+            "description": "",
+            "baseSong": "SOL1_39"
+        },
+        "songs": [
+            {
+                "slug": "SOL1_39"
+            },
+            {
+                "slug": "SOMH1_5"
+            },
+            {
+                "slug": "HC2_39"
+            }
+        ]
+    },
+    {
+        "cluster": {
+            "name": "I have Captured My Father's Heart",
+            "shortHand": "",
+            "description": "",
+            "baseSong": "SOL1_58"
+        },
+        "songs": [
+            {
+                "slug": "SOL1_58"
+            },
+            {
+                "slug": "SOL1_107"
+            },
+            {
+                "slug": "SOL1_73"
+            }
+        ]
+    },
+    {
+        "cluster": {
+            "name": "Crown Him With Many Crowns",
+            "shortHand": "",
+            "description": "",
+            "baseSong": "SOL2_122"
+        },
+        "songs": [
+            {
+                "slug": "SOL2_122"
+            },
+            {
+                "slug": "GFH2_35"
+            }
+        ]
+    },
+    {
+        "cluster": {
+            "name": "It’s the Lord, the Author and Finisher, Who Commissioned Us",
+            "shortHand": "",
+            "description": "",
+            "baseSong": "SOL1_140"
+        },
+        "songs": [
+            {
+                "slug": "SOL1_140"
+            },
+            {
+                "slug": "SOL1_28"
+            }
+        ]
+    },
+    {
+        "cluster": {
+            "name": "His Wounds My Hiding Place",
+            "shortHand": "",
+            "description": "",
+            "baseSong": "GFH2_30"
+        },
+        "songs": [
+            {
+                "slug": "GFH2_30"
+            },
+            {
+                "slug": "SOL3_45"
+            }
+        ]
+    },
+    {
+        "cluster": {
+            "name": "In the Cross",
+            "shortHand": "",
+            "description": "",
+            "baseSong": "SOL1_16"
+        },
+        "songs": [
+            {
+                "slug": "SOL1_16"
+            },
+            {
+                "slug": "SOL3_44"
+            }
+        ]
+    },
+    {
+        "cluster": {
+            "name": "One More Time, One More Time",
+            "shortHand": "",
+            "description": "",
+            "baseSong": "SOL1_138"
+        },
+        "songs": [
+            {
+                "slug": "SOL1_138"
+            },
+            {
+                "slug": "SOL3_15"
+            },
+            {
+                "slug": "SOL1_15"
+            }
+        ]
+    },
+    {
+        "cluster": {
+            "name": "Lord Jesus, I Love You",
+            "shortHand": "",
+            "description": "",
+            "baseSong": "GBH_32"
+        },
+        "songs": [
+            {
+                "slug": "GBH_32"
+            },
+            {
+                "slug": "SOL3_29"
+            }
+        ]
+    },
+    {
+        "cluster": {
+            "name": "His Love's Purpose",
+            "shortHand": "",
+            "description": "",
+            "baseSong": "SOL1_137"
+        },
+        "songs": [
+            {
+                "slug": "SOL1_137"
+            },
+            {
+                "slug": "SOL2_105"
+            }
+        ]
+    },
+    {
+        "cluster": {
+            "name": "Where Love Abides",
+            "shortHand": "",
+            "description": "",
+            "baseSong": "SOL1_14"
+        },
+        "songs": [
+            {
+                "slug": "SOL1_14"
+            },
+            {
+                "slug": "SOMH2_8"
+            },
+            {
+                "slug": "HC2_16"
+            }
+        ]
+    },
+    {
+        "cluster": {
+            "name": "You Fervently Desire to Have Your Supper With Us",
+            "shortHand": "",
+            "description": "",
+            "baseSong": "SOL3_33"
+        },
+        "songs": [
+            {
+                "slug": "SOL3_33"
+            },
+            {
+                "slug": "SOL3_35"
+            }
+        ]
+    },
+    {
+        "cluster": {
+            "name": "Your Choice. Your Love",
+            "shortHand": "",
+            "description": "",
+            "baseSong": "SOL2_172"
+        },
+        "songs": [
+            {
+                "slug": "SOL2_172"
+            },
+            {
+                "slug": "SOL2_177"
+            }
+        ]
+    },
+    {
+        "cluster": {
+            "name": "Gaze of Love and Joy",
+            "shortHand": "",
+            "description": "",
+            "baseSong": "SOL1_115"
+        },
+        "songs": [
+            {
+                "slug": "SOL1_115"
+            },
+            {
+                "slug": "SOL2_78"
+            }
+        ]
+    },
+    {
+        "cluster": {
+            "name": "I am Your Sweet Love Dream",
+            "shortHand": "",
+            "description": "",
+            "baseSong": "SOL2_188"
+        },
+        "songs": [
+            {
+                "slug": "SOL2_188"
+            },
+            {
+                "slug": "SOL3_14"
+            }
+        ]
+    },
+    {
+        "cluster": {
+            "name": "What You and I Treasure",
+            "shortHand": "",
+            "description": "",
+            "baseSong": "SOL1_134"
+        },
+        "songs": [
+            {
+                "slug": "SOL1_134"
+            },
+            {
+                "slug": "GFH1_39"
+            }
+        ]
+    },
+    {
+        "cluster": {
+            "name": "Stay Before the Lord",
+            "shortHand": "",
+            "description": "",
+            "baseSong": "HC2_8"
+        },
+        "songs": [
+            {
+                "slug": "HC2_8"
+            },
+            {
+                "slug": "GFH2_79"
+            }
+        ]
+    },
+    {
+        "cluster": {
+            "name": "Perfect Salvation",
+            "shortHand": "",
+            "description": "",
+            "baseSong": "SOL1_23"
+        },
+        "songs": [
+            {
+                "slug": "SOL1_23"
+            },
+            {
+                "slug": "GFH1_175"
+            }
+        ]
+    },
+    {
+        "cluster": {
+            "name": "Amazing Grace",
+            "shortHand": "",
+            "description": "",
+            "baseSong": "SOL2_14"
+        },
+        "songs": [
+            {
+                "slug": "SOL2_14"
+            },
+            {
+                "slug": "HC2_6"
+            }
+        ]
+    },
+    {
+        "cluster": {
+            "name": "Alone with the Father",
+            "shortHand": "",
+            "description": "",
+            "baseSong": "SOL2_83"
+        },
+        "songs": [
+            {
+                "slug": "SOL2_83"
+            },
+            {
+                "slug": "GFH1_29"
+            }
+        ]
+    },
+    {
+        "cluster": {
+            "name": "The Lord Is Fair And Good",
+            "shortHand": "",
+            "description": "",
+            "baseSong": "GFH2_78"
+        },
+        "songs": [
+            {
+                "slug": "GFH2_78"
+            },
+            {
+                "slug": "SOL3_12"
+            }
+        ]
+    }
+]

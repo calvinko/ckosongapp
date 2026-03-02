@@ -1,0 +1,6 @@
+# Song 6:10 Wonderful Change
+
+Who is she who looks forth as the morning,
+Fair as the moon, clear as the sun,
+Awesome as an army with banners?
+Oh! He has changed me like that! Thank You, Lord!

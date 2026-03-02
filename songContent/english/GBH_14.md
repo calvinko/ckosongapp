@@ -1,0 +1,29 @@
+# Love Like a Rainbow
+
+Most precious and sweet! You're my true Beloved!
+For Your love dream You committed Yourself.
+For your love, You yearned to be a man forever.
+You loved me and gave Yourself for me.
+You redeemed, betrothed me
+With Your precious blood,
+To be Your darling love, the seal on Your heart.
+Your eternal scars of love
+Is Your love pledge forever.
+Lord, Your love enthralls, captivates my heart.
+Your love is stronger than death,
+A very flame of Yahweh!
+Now You and I are most deeply united!
+The love covenant is forever sure.
+Your love dream's gloriously fulfilled!
+La La La La La La La La La La La La La La La La La
+Your love is like a rainbow:
+Colourful, beautiful; so tender,
+So bountiful, romantic, most personal.
+From dawn to dusk, You are sweetly gazing on me,
+and thinking of me,
+Longing for me, embracing me.
+O Lord, grant me undying, bravest faith,
+A thankful, dancing heart
+To echo Your matchless, Your touching love,
+Your heart's desire towards me,
+And set my love on You!

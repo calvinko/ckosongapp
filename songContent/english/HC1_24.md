@@ -1,0 +1,14 @@
+# The Bible is the Word of God
+
+The Bible is the word of God.
+It's beyond man's wisdom:
+Written by many at different times
+Yet without contradictions.
+The Bible is the word of God,
+With prophecies fulfilled,
+With science and knowledge proven so.
+It turns sinners to be good.
+Let's treasure the Bible,
+Trust in God's word.
+Let's treasure the Bible,
+Trust in God's word.

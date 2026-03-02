@@ -1,0 +1,56 @@
+
+Skipped 59 files:
+
+- File: Cantares 1 8 a17 Em amor.mp3, Chinese Key: HCantares
+- File: 10.127 Minha companhia preciosa.mp3, Chinese Key: H10_127
+- File: Coração de jovem.mp3, Chinese Key: HCoração
+- File: Cantares 5 2-4.mp3, Chinese Key: HCantares
+- File: Cantares 8 6 e7.mp3, Chinese Key: HCantares
+- File: 10.96 És a conclusão dos meus sonhos.mp3, Chinese Key: H10_96
+- File: 3.54 O Senhor que cuida.mp3, Chinese Key: H3_54
+- File: 12.42 Cicatrizes eternas de amor.mp3, Chinese Key: H12_42 (mixed up with 12.44?)
+
+- File: Cantares 7 10-13.mp3, Chinese Key: HCantares (Already have?)
+- File: 3.29 Retornar à fonte.mp3, Chinese Key: H3_29
+- File: 3.24 Confiar firme.mp3, Chinese Key: H3_24
+- File: 10.147 Amor selado com sangue.mp3, Chinese Key: H10_147
+- File: H23.53 Eu quero que só me ame.mp3, Chinese Key: HC23_53
+- File: 12.52 Amor entre céu e terra, corações unidos.mp3, Chinese Key: H12_52 (already have?)
+- File: 7.22 Encantado no Seu rio de amor.mp3, Chinese Key: H7_22
+- File: 11.22 O coração do meu querido Aba.mp3, Chinese Key: H11_22
+- File: 13.22 Amor Fervente da Cruz.mp3, Chinese Key: H13_22
+- File: 3.17 Cristo é o centro da minha vida.mp3, Chinese Key: H3_17
+- File: Nele sou satisfeito.mp3, Chinese Key: HNele
+- File: 13.30 O Mais Belo Sonho de Amor.mp3, Chinese Key: H13_30
+- File: 9.14 Profundo amor do Senhor.mp3, Chinese Key: H9_14
+- File: 11.114 Seu deleite e desejo.mp3, Chinese Key: H11_114
+- File: Jesus é o Mundo Todo Para Mim.mp3, Chinese Key: HJesus
+- File: Eu vivo completamente para Ti.mp3, Chinese Key: ELu
+- File: Fé, Amada!.mp3, Chinese Key: HFé,
+- File: 1.04 Esse é o Mundo do Meu Pai.mp3, Chinese Key: H1_04
+- File: Habitar no esconderijo do Altíssimo, acreditar e aproveitar o abraço do Amado 2.mp3, Chinese Key: HCabitar
+- File: 12.74 Marche Adiante para a Jornada Gloriosa.mp3, Chinese Key: H12_74
+- File: 10.180 Quer vigiemos, quer durmamos, vivamos juntamente com Ele.mp3, Chinese Key: H10_180
+- File: 11.7 Vivendo no abraço do Aba, Senhor e Espírito Santo.mp3, Chinese Key: H11_7
+- File: 14.65 Fé, esperança e amor.mp3, Chinese Key: H14_65
+- File: 13.28 Milhares de Montes.mp3, Chinese Key: H13_28
+- File: 3.22 Minha confiança.mp3, Chinese Key: H3_22
+- File: 11.188 Escolha de amor.mp3, Chinese Key: H11_188
+- File: 12.47 Portão do Céu Está Aberto.mp3, Chinese Key: H12_47
+- File: 8.66 Amor de todo o coração.mp3, Chinese Key: H8_66
+- File: 2.65 Sorrir pelo Senhor.mp3, Chinese Key: H2_65
+- File: 2.68 Vida de louvor.mp3, Chinese Key: H2_68
+- File: 13.9 Amor Como Arco-Íris.mp3, Chinese Key: H13_9
+- File: 8.60 Amor multiforme.mp3, Chinese Key: H8_60
+- File: 11.35 Existo pelo Aba.mp3, Chinese Key: H11_35
+- File: 11.6 Vivendo no círculo de amor de Deus.mp3, Chinese Key: H11_6
+- File: Minha vida inteira está nas mãos do Senhor.mp3, Chinese Key: HMinha
+- File: 14.66 Venha a mim.mp3, Chinese Key: H14_66
+- File: 6.20 Suas feridas são meu esconderijo.mp3, Chinese Key: H6_20
+- File: 5.23 Continue confiando.mp3, Chinese Key: H5_23
+- File: O Cruzeiro do Sul declara seu terno amor.mp3, Chinese Key: HO
+- File: A cruz do Pai.mp3, Chinese Key: HA
+- File: 2.47 O desejo do Pai e do Filho.mp3, Chinese Key: H2_47
+- File: 13.20 Enorme Graça.mp3, Chinese Key: H13_20
+- File: Está aqui, sempre aqui.mp3, Chinese Key: ELstá
+- File: 13.14 Sonho de Amor do Senhor.mp3, Chinese Key: H13_14

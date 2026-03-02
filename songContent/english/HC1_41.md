@@ -1,0 +1,18 @@
+# A New Day
+
+1. The dark night is gone; the dawn has come.
+Shadows flee away; a new day comes.
+Tears are wiped away; now I can smile.
+Lord Jesus has ransomed me.
+Lord Jesus loves me. He has made all things new.
+Lord Jesus loves me.
+He leads me towards eternal bliss.
+
+2. Remember no more sorrows and pains.
+Now I'm set free from loads of sin!
+My path is bright. I'll fly on high.
+Lord Jesus leads me the way.
+I love Lord Jesus. He has made all things new.
+I love Lord Jesus.
+I'll love Him forever and ever,
+Forever.
